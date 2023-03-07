@@ -1,2 +1,1 @@
-#!/bin/bash\nCFILE=0-main.c ; ./0-preprocessor
-
+#!/bin/bash\nexport CFILE=0-main.c ; ./0-preprocessor
